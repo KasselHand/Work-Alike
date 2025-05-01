@@ -3,8 +3,10 @@
      This model of the Kassel Hand has edited interior components that deviate from 
      the form of the original artifact so they can function closer to the original 
      metal material of the artifact. It's a durable version that can be used to do 
-     activities. If you have questions about this repository's purpose or are unsure of how to start the 
-     printing process, head back to this model's webpage and check out the section underneath the links to the repository files titled, "New to Printing?" Happy printing!
+     activities. If you have questions about this repository's purpose or are unsure 
+     of how to start the printing process, head back to this model's webpage and check 
+     out the section underneath the links to the repository files titled, "New to Printing?" 
+     Happy printing!
 
     1.) Print Settings for Work-Alike
     
