@@ -3,15 +3,12 @@
      This model of the Kassel Hand has edited interior components that deviate from 
      the form of the original artifact so they can function closer to the original 
      metal material of the artifact. It's a durable version that can be used to do 
-     activities. Below is a readme file containing General Print settings, a file 
-     naming convention for our repository, and helpful links to the assembly videos 
-     on YouTube. Happy printing!
+     activities. If you have questions about this repository's purpose or are unsure of how to start the 
+     printing process, head back to this model's webpage and check out the section underneath the links to the repository files titled, "New to Printing?" Happy printing!
 
     1.) Print Settings for Work-Alike
     
-    a) link to GCode
-    
-    b) General Print Settings
+    a) General Print Settings
         I.) We used an Anycubic Kobra 3 with the Anycubic Slicer.
        II.) 2 Vertical Shells, 4 Horizontal Shells with a minimum thickness of 0.6mm.
       III.) 15% infill density, grid pattern
@@ -47,12 +44,10 @@
 
      a) For the first part of the file name, "L" is a Letter, "M" represents 
      Mechanism, or "S" for Shell.
-        i.) Shell was printed out of gray and is a structural part.
-       ii.) Mechanism is any movable part that is integral to the actuation.
+        I.) Shell was printed out of gray and is a structural part.
+       II.) Mechanism is any movable part that is integral to the actuation.
      b) The following section is a twi-digit number used to identify the part.
      c) The "Name of Part" is the colloquial term for the part in question--it's 
      easier to identify if you need a new ring finger than a replacement part 
      numbered "M-03."
      d) #X is how many copies are needed.
-
-     3.) Helpful Links
