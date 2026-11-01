@@ -11,8 +11,8 @@
      1.) File Naming Convention: "L-##-[Name of Part]-#X"
 
           A.) First Section, L is a Letter, either "M" for Mechanism or "S" for Shell.
-                i.) Shell was printed out of gray and is a structural part
-               ii.) Mechanism is any movable part that is integral to the actuation.
+                1.) Shell was printed out of gray and is a structural part
+                2.) Mechanism is any movable part that is integral to the actuation.
           B.) Next section is two numbers used to identify the part
           C.) The "Name of Part" is the colloquial term for the part in question. i.e. it's 
              easier to identify if you need a new ring finger than a replacement "M-03."
