@@ -31,7 +31,7 @@
                  worst orientation to print, the goal is to have the layer lines run 
                  along the rod and for the presence of unbroken layers circumnavigating 
                  the entire rod and paddle. This is for maximum strength.
-                   i.) If you are using this as a display model, then you can print it 
+                   1.) If you are using this as a display model, then you can print it 
                        with the thin rod on the plate with paddle pointed up, like a     
                        letter "L" rotated counterclockwise 90 degrees.
           H.) 2mm brim with a 0.25mm brim separation gap.
