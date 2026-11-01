@@ -10,43 +10,42 @@
        
      1.) File Naming Convention: "L-##-[Name of Part]-#X"
 
-          a) First Section, L is a Letter, either "M" for Mechanism or "S" for Shell.
+          A.) First Section, L is a Letter, either "M" for Mechanism or "S" for Shell.
                 i.) Shell was printed out of gray and is a structural part
                ii.) Mechanism is any movable part that is integral to the actuation.
-          b) Next section is two numbers used to identify the part
-          c) The "Name of Part" is the colloquial term for the part in question. i.e. it's 
+          B.) Next section is two numbers used to identify the part
+          C.) The "Name of Part" is the colloquial term for the part in question. i.e. it's 
              easier to identify if you need a new ring finger than a replacement "M-03."
-          d) #X is how many copies are needed.
+          D.) #X is how many copies are needed.
 
     2.) Print Settings
-    
-         a) General Print Settings
-             i.) An Anycubic Kobra 3 with the Anycubic Slicer
-            ii.) 2 Vertical Shells, 4 Horizontal Shells with a minimum thickness of 0.6mm
-           iii.) 15% infill density, grid pattern
-            iv.) 0.16mm layer height
-             v.) Organic supports with a 0.28mm Z contact distance and 2.5mm spacing
-            vi.) Top and bottom interface layers should be 3 layers thick
-           vii.) Print the paddle (M-11) oriented where the flat of the paddle is normal 
+
+          A.) An Anycubic Kobra 3 with the Anycubic Slicer
+          B.) 2 Vertical Shells, 4 Horizontal Shells with a minimum thickness of 0.6mm
+          C.) 15% infill density, grid pattern
+          D.) 0.16mm layer height
+          E.) Organic supports with a 0.28mm Z contact distance and 2.5mm spacing
+          F.) Top and bottom interface layers should be 3 layers thick
+          G.) Print the paddle (M-11) oriented where the flat of the paddle is normal 
                  to the plate and the rod is parallel. While this may seem like the 
                  worst orientation to print, the goal is to have the layer lines run 
                  along the rod and for the presence of unbroken layers circumnavigating 
                  the entire rod and paddle. This is for maximum strength.
-                   1.) If you are using this as a display model, then you can print it 
+                   i.) If you are using this as a display model, then you can print it 
                        with the thin rod on the plate with paddle pointed up, like a     
-                       letter "L" rotated backwards 90 degrees.
-          viii.) 2mm brim with a 0.25mm brim separation gap.
-            ix.) Print the gauntlet bottom, "S-01," vertically, where the region the 
+                       letter "L" rotated counterclockwise 90 degrees.
+          H.) 2mm brim with a 0.25mm brim separation gap.
+          I.) Print the gauntlet bottom, "S-01," vertically, where the region the 
                  fingers would be is pointed up and the wrist of the gauntlet is 
                  touching the plate. The top of the gauntlet, "S-02," should be 
                  horizontal, with one side wall touching the plate. This orientation is 
                  for the best resulting strength where the highest loading occurs.
-             x.) Print the rest of the mechanism parts, those with files names starting 
+          J.) Print the rest of the mechanism parts, those with files names starting 
                  with "M-##" with their flattest end on the plate. This includes all 
                  fingers: M-07, M-08, M-09, and M-10.
-            xi.) M-13 and M-14, the axles, can be printed horizontally. The rod rests 
+          K.) M-13 and M-14, the axles, can be printed horizontally. The rod rests 
                  lengthwise along the plate.
-           xii.) M-15 is an exception to direction viii--for best results, we have 
+          L.) M-15 is an exception to direction J--for best results, we have 
                  found printing with the loop parallel to the plate is best.
-          xiii.) M-16 should be printed with the loop flat on the plate as you would 
+          M.) M-16 should be printed with the loop flat on the plate as you would 
                  expect a ring to sit atop a table.
