@@ -15,7 +15,7 @@
                 2.) Mechanism is any movable part that is integral to the actuation.
           B.) Next section is two numbers used to identify the part
           C.) The "Name of Part" is the colloquial term for the part in question. i.e. it's 
-             easier to identify if you need a new ring finger than a replacement "M-03."
+              easier to identify if you need a new ring finger than a replacement "M-03."
           D.) #X is how many copies are needed.
 
     2.) Print Settings
@@ -45,7 +45,7 @@
                  fingers: M-07, M-08, M-09, and M-10.
           K.) M-13 and M-14, the axles, can be printed horizontally. The rod rests 
                  lengthwise along the plate.
-          L.) M-15 is an exception to direction J--for best results, we have 
+          L.) M-15 is an exception to prior direction J.)--for best results, we have 
                  found printing with the loop parallel to the plate is best.
           M.) M-16 should be printed with the loop flat on the plate as you would 
                  expect a ring to sit atop a table.
